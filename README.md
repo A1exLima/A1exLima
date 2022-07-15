@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://octodex.github.com/images/daftpunktocat-guy.gif"  />
+  <img height="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif"  />
 </div>
 
 ###
