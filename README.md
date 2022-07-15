@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Alima07.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/Alima07?style=social)
+
 <h1 align="center">console.log("Hello Word👋 (̶◉͛‿◉̶) , my name is Alex Lima ®");</h1>
 
 ###
@@ -52,12 +55,6 @@
   <a href="Alima07#2276" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Alima/count.svg?"  />
 </div>
 
 ###
