@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">🌏 Me chamo Alex Lima e sou 🧑‍🏫estudante da Escola Digital House, onde curso Full Stack Developer 🧑‍💻.<br><br>Atualmente moro em São Paulo, Brasil . E a minha maior 💙paixão e compartilhar conhecimento 🧠 para todas as pessoas e lógico, buscar novos conhecimentos também, para poder estar sempre aprendendo e ensinando. Essa filosofia é o meu maior motivador. 🧘‍♂</p>
+<p align="center">🌏 Me chamo Alex Lima e sou 🧑‍🏫estudante da Rocketseat, onde curso Full Stack Developer 🧑‍💻.<br><br>Atualmente moro em São Paulo, Brasil . E a minha maior 💙paixão e compartilhar conhecimento 🧠 para todas as pessoas e lógico, buscar novos conhecimentos também, para poder estar sempre aprendendo e ensinando. Essa filosofia é o meu maior motivador. 🧘‍♂</p>
 
 ###
 
