@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">Fora do desenvolvimento gosto de praticar Piano 🎹 e viajar 🌄. Minha segunda paixão após o desenvolvimento é a música 🎼, considero meu combustível ⛽ para codar, sempre buscando inspiração em cada som que ouço. Adoro conhecer pessoas e culturas diferentes. 🏞🏰🏯🗽<br><br>📚 Atualmente estou estudando:<br><br>▫ NodeJs<br>▫ JavaScript<br>▫ Express<br>▫ Html<br>▫ CSS<br><br>🎯 Objetivos:<br><br>▫ Me tornar um programador Full Stack Junior<br><br>🎲 Curiosidade:<br><br>▫ Sou formado pelo SENAI em técnico em Eletrônica, habilidades em desenvolvimento de projetos IoT.</p>
+<p align="center">Fora do desenvolvimento gosto de praticar Piano 🎹 e viajar 🌄. Minha segunda paixão após o desenvolvimento é a música 🎼, considero meu combustível ⛽ para codar, sempre buscando inspiração em cada som que ouço. Adoro conhecer pessoas e culturas diferentes. 🏞🏰🏯🗽<br><br>📚 Atualmente estou estudando:<br><br>▫ NodeJs<br>▫ JavaScript<br>▫ Html<br>▫ CSS<br><br>🎯 Objetivos:<br><br>▫ Me tornar um programador Full Stack Junior<br><br>🎲 Curiosidade:<br><br>▫ Sou formado pelo SENAI em técnico em Eletrônica, habilidades em desenvolvimento de projetos IoT.</p>
 
 ###
 
