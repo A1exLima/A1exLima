@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Hello Word👋 (̶◉͛‿◉̶) , my name is Alex Lima ®");</h1>
+<h1 align="center">Hi, I'm Alex Lima</h1>
 
 ###
 
