@@ -3,7 +3,7 @@
 ###
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Alima07.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/Alima07?style=social)
+![GitHub followers](https://img.shields.io/github/followers/A1exLima?style=social)
 
 ###
 
