@@ -29,25 +29,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"/>
 </div>
 
-<br><br><br><br><br><br>
-
-<img align="right" width = "400em" height="167.6em" src="https://raw.githubusercontent.com/A1exLima/rocketseat-stage6-desafio-gitfav/1066964cba7c28b237fba94954beb01ed0b56b47/public/images/persona.svg" alt="languages graph"/>
-
-
-<h1 align="center">Mídias Socias 🤳</h1>
-
-<div align="center">
-<br>
-  <a href="https://www.instagram.com/a1ex.lima" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/A1ex_0282" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="Alima07#2276" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@alima07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="Youtube logo"  />
-  </a>
-</div>
