@@ -7,8 +7,8 @@
 
   <img align="right" width = "400em" height="147em"  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=A1exLima" alt="stats graph"/>
 
-<h1 align="center">Hi, I'm Alex Lima  <a href="https://www.linkedin.com/in/alima07/" target="_blank">
-    <img src="https://static.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx" height="30" width="30" alt="instagram logo" />
+<h1 align="center">Hi, I'm Alex Lima  
+  <a href="https://www.linkedin.com/in/alima07/" target="_blank"><img src="https://static.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx" height="35" width="35" alt="Linked" />
   </a></h1>
 <br>
 
