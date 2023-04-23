@@ -6,6 +6,8 @@
 <br>
 
   <img align="right" width = "400em" height="147em"  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=A1exLima" alt="stats graph"/>
+  
+<br>
 
 <h1 align="center">Hi, I'm Alex Lima 🚀</h1>
 <br>
@@ -19,6 +21,7 @@
   
 <img align="right" width = "400em" height="153em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=A1exLima" alt="languages graph"/>
 
+<br>
 
 <h1 align="center">Linguagens de Programação 🤖</h1>
 <br>
@@ -34,6 +37,7 @@
 
 <img align="right" width = "400em" height="167.6em" src="https://raw.githubusercontent.com/A1exLima/rocketseat-stage6-desafio-gitfav/1066964cba7c28b237fba94954beb01ed0b56b47/public/images/persona.svg" alt="languages graph"/>
 
+<br>
 
 <h1 align="center">Mídias Socias 🤳</h1>
 
