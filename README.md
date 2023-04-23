@@ -19,7 +19,7 @@
 <img align="right" width = "400em" height="153em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=A1exLima" alt="languages graph"/>
 
 
-<h1 align="center">Linguagens de Programação 🤖</h1>
+<h1 align="center">Tecnologias de Programação 🤖</h1>
 <br>
 
 - 🔥Html
