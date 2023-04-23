@@ -22,7 +22,7 @@
 <img align="right" width = "400em" height="153em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=A1exLima" alt="languages graph"/>
 
 
-<h1 align="center">Tecnologias de Desenvolvimento 🤖</h1>
+<h1 align="center">Tecnologias de Desenvolvimento🤖</h1>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
