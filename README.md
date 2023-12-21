@@ -1,6 +1,6 @@
 ###
 ![GitHub followers](https://img.shields.io/github/followers/A1exLima?style=social)
-<a href="https://www.linkedin.com/in/alima07/" target="_blank"><img src="https://static.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx" height="21" width="21" alt="Linked" />
+<a href="https://www.linkedin.com/in/a1exlima/" target="_blank"><img src="https://static.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx" height="21" width="21" alt="Linked" />
 ###
 <br>
 
