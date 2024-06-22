@@ -4,7 +4,6 @@
 ###
 <br>
 
-  <img align="right" width = "400em" height="147em"  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=A1exLima" alt="stats graph"/>
 
 <h1 align="center">Hi, I'm Alex Lima 🧠 </h1>
 <br>
@@ -15,9 +14,13 @@
 - 🧠 Pergunte-me sobre HTML, CSS, JavaScript, Node.JS
 - 📚 Curiosidade: Sou formado pelo SENAI em técnico em Eletrônica.
 <br><br><br><br>
-  
+
+  <img align="left" width = "400em" height="147em"  src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=A1exLima" alt="stats graph"/>
+
 <img align="right" width = "400em" height="153em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=A1exLima" alt="languages graph"/>
 
+<br><br><br><br>
+<br><br><br><br>
 
 <h1 align="center">Tecnologias de Programação 🤖</h1>
 <br>
