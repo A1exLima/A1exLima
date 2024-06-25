@@ -8,10 +8,9 @@
 <h1 align="center">Hi, I'm Alex Lima 🧠 </h1>
 <br>
 
-- 🔥 Desenvolvedor Web Full-Stack focado em ajudar pessoas.
-- 🔭 Atualmente em busca de uma oportunidade.
+- 🔥 Desenvolvedor Web Front-end focado em ajudar pessoas.
+- 🔭 Atualmente em busca de desafios.
 - 💙 Minha maior paixão é compartilhar conhecimento.
-- 🧠 Pergunte-me sobre HTML, CSS, JavaScript, Node.JS
 - 📚 Curiosidade: Sou formado pelo SENAI em técnico em Eletrônica.
 <br><br><br><br>
 
