@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/in/a1exlima/" target="_blank"><img src="https://static.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx" height="21" width="21" alt="Linked" />
 ###
 <br>
-
-
-<h1 align="center">Hi, I'm Alex Lima 🧠 </h1>
+<h1 align="center">Alex <Code/></h1>
 <br>
 
 - 🔥 Desenvolvedor Web Front-end focado em ajudar pessoas.
